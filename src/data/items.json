@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 100.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 117399,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 10.5,
+    "imgUrl": "/imgs/banana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 1407000,
+    "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Apple",
+  "price": 700,
+    "imgUrl": "https://th.bing.com/th/id/R.ad7cddad73c550c0fc1cb14be4252cd2?rik=Ezmd6kyVpy02cg&riu=http%3a%2f%2fwww.eatlikenoone.com%2fwp-content%2fuploads%2f2010%2f11%2fMelrose-Apples.JPG&ehk=guQtFHqgr9DBAPZG%2fpypEqOnMtYaRewvxnc%2bA3WFlvQ%3d&risl=&pid=ImgRaw&r=0"
+  }
+  ,
+  {
+    "id": 6,
+    "name": "Humans",
+    "price": 0.0,
+    "imgUrl": "https://th.bing.com/th/id/OIP.s3a3qPGBtaz5i8Z9Ng7ZaAHaEg?pid=ImgDet&rs=1"
+  }
+]
